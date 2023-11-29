@@ -1,0 +1,87 @@
+/* Default styles */
+
+body{
+    background-image: url(./asset/pexels-johannes-plenio-1103970.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+.center-div{
+    padding: 10%;
+}
+
+.btn.btn-success{
+    padding: 0.5em 1.5em;
+}
+
+form{
+    padding: 0 1em;
+}
+
+#login.title>span{
+    font-size: 18em;
+}
+/* 
+@media (max-width: 576px) {
+    .center-div {
+      margin-top: 10%;
+    }
+    .container {
+      width: 80%;
+    }
+    .title h2 {
+      font-size: 1.5rem;
+    }
+    .title span {
+      font-size: 0.8rem;
+    }
+    .form-group input {
+      font-size: 0.8rem;
+    }
+    .form-group small {
+      font-size: 0.6rem;
+    }
+  }
+
+@media (min-width: 577px) and (max-width: 768px) {
+    .center-div {
+      margin-top: 15%;
+    }
+    .container {
+      width: 60%;
+    }
+    .title h2 {
+      font-size: 2rem;
+    }
+    .title span {
+      font-size: 1rem;
+    }
+    .form-group input {
+      font-size: 1rem;
+    }
+    .form-group small {
+      font-size: 0.8rem;
+    }
+}
+
+@media (min-width: 769px) {
+    .center-div {
+      margin-top: 20%;
+    }
+    .container {
+      width: 40%;
+    }
+    .title h2 {
+      font-size: 3rem;
+    }
+    .title span {
+      font-size: 1.5rem;
+    }
+    .form-group input {
+      font-size: 1.2rem;
+    }
+    .form-group small {
+      font-size: 1rem;
+    }
+}  */
